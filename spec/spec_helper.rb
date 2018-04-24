@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "insta_rb"
+require "insta_bot"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
